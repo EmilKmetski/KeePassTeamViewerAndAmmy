@@ -8,4 +8,8 @@ The string fields are found in the "Advanced" tab when you create/edit entry.
 
 Also you will need to add the applications full executable path in the file "TeamViewerAndAmmyy.json" By using double slashes as it is in the current values there.
 
-After you have set this up you need to copy **"Newtonsoft.Json.dll" **and "TeamViewerAndAmmyy.dll" and "TeamViewerAndAmmyy.json" into the KeePass Plugins folder.
+After you have set this up you need to copy 
+   **"Newtonsoft.Json.dll" **
+and "TeamViewerAndAmmyy.dll"
+and "TeamViewerAndAmmyy.json" 
+into the KeePass Plugins folder.
